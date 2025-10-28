@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+transformers
+torch
+torchvision
+opencv-python
+moviepy==1.0.3
+imageio[ffmpeg]
+python-dotenv
