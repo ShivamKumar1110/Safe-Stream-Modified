@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.venv/
+build/
+dist/
+*.egg-info/
+moviepy/
+*.log
+
+# Node / React
+node_modules/
+build/
+dist/
+.env
+.DS_Store
+
+# System
+Thumbs.db
+*.sqlite3
+
+# IDEs
+.vscode/
+.idea/
